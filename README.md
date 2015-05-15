@@ -6,4 +6,4 @@ Las partes que yo he escrito se encuentran en los ficheros *agent.h* y *agent.cp
 - La estructura general de la práctica a Juan Fernández Olivares, profesor de IA de la Universidad de Granada.
 - La librería GLUI pertenece a Paul Rademacher.
 
-El código original tal cual me fue entregado a mí se encuentra en la carpeta *Agent-Codigo_original*.
+El código original tal cual me fue entregado a mí se encuentra en la carpeta *Agent-Codigo_original*. No estoy seguro de si hay código de otras personas; si lo hubiera sus licencias deberían encontrarse ahí.
