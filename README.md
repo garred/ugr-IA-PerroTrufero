@@ -1,6 +1,8 @@
 # ugr-IA-PerroTrufero
 Segunda práctica de la asignatura Inteligencia Artificial del Grado de Informática. Consiste en un agente reactivo (un perro trufero) que debe recorrer un tablero recogiendo trufas según van creciendo, evitando que se estropeen por esperar demasiado tiempo.
 
+Video de ejemplo de su funcionamiento: https://www.youtube.com/watch?v=ebtLgXoNrU8.
+
 ## Licencias
 Las partes que yo he escrito se encuentran en los ficheros *agent.h* y *agent.cpp*, y están bajo licencia GNU/GPL v2. El resto del código pertenece a otras personas, en particular:
 - La estructura general de la práctica a Juan Fernández Olivares, profesor de IA de la Universidad de Granada.
